@@ -21,7 +21,7 @@ The following project main goals are:
 
 ## Demo
 
-![Bouncing DVD logo trajectories for 3600 seconds](images/image1.png)
+![Bouncing DVD logo trajectories for 3600 seconds](images/image1.gif)
 
 ## Content
 
