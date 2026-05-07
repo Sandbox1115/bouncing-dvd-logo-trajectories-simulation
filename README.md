@@ -54,7 +54,7 @@ import os
 
 This project was developed by Sandbox1115.
 
-If you have any question, advice, or want to share your own findings and solution to this project please get in touch, i'd be glad to evaluate your work and grow up professionally toghether.
+Please not forking is allowed. If you have any question, advice, or want to share your own findings and solution to this project please get in touch, i'd be glad to evaluate your work and grow up professionally toghether.
 
 ## License
 
